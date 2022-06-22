@@ -20,7 +20,7 @@ public class Ex4_ArrayMultidimensional {
         System.out.println("Matriz: ");
         for (int[] linha : Matriz) {
             for (int elementoDaColuna : linha) {
-                System.out.print(elementoDaColuna + " ");
+                System.out.print(elementoDaC'oluna + " ");
             }
             System.out.println();
         }
